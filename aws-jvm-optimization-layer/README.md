@@ -13,9 +13,5 @@ AWS_LAMBDA_EXEC_WRAPPER=/opt/wrapper-script.sh
 
 # 해당 최적화가 유효한 이유 [WIP]
 
-## JIT 컴파일러 
-
-## C1 & C2 컴파일러
-
-## TieredCompilation & TieredStopAtLevel
+참고(내블로그) : https://ssisksl77.gitlab.io/jvm/aws-jvm-optimization.html
 
