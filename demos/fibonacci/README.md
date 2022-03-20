@@ -8,3 +8,8 @@
 # 실행
 
 `java Main 3`
+
+
+# -XX:+PrintCompilation
+
+`java -XX:PrintCompilation Main 10`
